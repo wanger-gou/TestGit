@@ -7,6 +7,7 @@ package com.xubo;
  */
 public class Test01 {
 	private Integer Id;
+	private Integer Number;
     public static void main(String[] args) {
         System.out.println("sjdksjl");
         System.out.println("再测试一次！");
