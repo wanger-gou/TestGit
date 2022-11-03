@@ -6,6 +6,8 @@ package com.xubo;
  * @description
  */
 public class Test01 {
+    private Integer Id;
+    private String name;
     public static void main(String[] args) {
         System.out.println("sjdksjl");
         System.out.println("再测试一次！");
