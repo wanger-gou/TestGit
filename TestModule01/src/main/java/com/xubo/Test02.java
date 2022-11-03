@@ -5,7 +5,7 @@ package com.xubo;
  * @date 2022-11-03 20:35:53
  * @description
  */
-public class Test01 {
+public class Test02 {
     public static void main(String[] args) {
         System.out.println("sjdksjl");
         System.out.println("再测试一次！");
